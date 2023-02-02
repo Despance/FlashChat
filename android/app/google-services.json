@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "171148949742",
+    "project_id": "flash-chat-820b1",
+    "storage_bucket": "flash-chat-820b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171148949742:android:4a05511ec24110d6291bff",
+        "android_client_info": {
+          "package_name": "com.despance.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171148949742-mb04pvhsk5dhl3pp3il6ci5oslbdgo73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5hIBejdkjVERG6X1ZRW08GcXH4lWq6fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171148949742-mb04pvhsk5dhl3pp3il6ci5oslbdgo73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
